@@ -1,0 +1,16 @@
+{
+  "name": "t-umi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "umi dev"
+  },
+  "dependencies": {
+    "antd": "^3.23.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "umi": "^2.9.3",
+    "umi-plugin-react": "^1.9.19"
+  }
+}
